@@ -1,5 +1,7 @@
 # PB
 projet blanc
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Adnenchiekh/PB/main?labpath=index.ipynb)
+
 ## ceci est un mini projet 
 
 
